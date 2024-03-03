@@ -12,12 +12,12 @@
     "wilayah",
     "indonesia"
   ],
-  "author": "Arief Fakhrudin",
+  "author": "Anifwafi",
   "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/arieffakhrudin/api-wilayah-indonesia/issues"
   },
-  "homepage": "https://github.com/arieffakhrudin/api-wilayah-indonesia",
+  "homepage": "https://github.com/anifwafi/api-indonesia",
   "dependencies": {
     "api-wilayah-indonesia": "^1.0.0",
     "express": "^4.18.2",
